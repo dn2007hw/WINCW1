@@ -10,3 +10,7 @@
 \\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.editfavourites.resources
 \\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.updatepageinfo.resources
 \\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\bin\Debug\CWBrowser01.exe.manifest
+\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\bin\Debug\CWBrowser01.application
+\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.exe.manifest
+\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.application
