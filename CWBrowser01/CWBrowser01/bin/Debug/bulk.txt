@@ -1,0 +1,7 @@
+http://www.macs.hw.ac.uk/~hwloidl/Courses/F21SC/Samples/loops.cs
+http://www.macs.hw.ac.uk/~hwloidl/Courses/F21SC/Samples/exercise0.cs
+http://www.macs.hw.ac.uk/~hwloidl/Courses/F21SC/Samples/double.cs
+http://www.macs.hw.ac.uk/~hwloidl/Courses/F21SC/Samples/arr.cs
+http://www.macs.hw.ac.uk/~hwloidl/Courses/F21SC/Samples/min3.cs
+http://www.macs.hw.ac.uk/~hwloidl/Courses/F21SC/Samples/functions.cs
+https://www.google.com

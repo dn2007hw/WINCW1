@@ -6,5 +6,7 @@
 \\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.exe
 \\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.pdb
-\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.csproj.AssemblyReference.cache
 \\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.CWBrowser.resources
+\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.editfavourites.resources
+\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.updatepageinfo.resources
+\\Mac\Home\Documents\CodeSep\WINCW\CWBrowser01\CWBrowser01\obj\Debug\CWBrowser01.csproj.AssemblyReference.cache
